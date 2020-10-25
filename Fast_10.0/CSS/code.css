@@ -2,6 +2,9 @@
 textarea{
     resize: none;
     height: 400px;
-    width: 400px;
-    background-color: #99FFFF;
+    width: 600px;
+    background-color: white;
 }
+.fa .fa-facebook-official{
+    background-color: white;
+} 
